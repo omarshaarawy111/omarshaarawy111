@@ -26,3 +26,8 @@ I am a web developer and AI enthusiast with 4 years of experience. I specialize 
 - **Senior Web Developer at Neutlex media agency**
 - **Web Developer at Bfound Association**
 - **Web Developer at Integrity Corporation**
+
+
+### 📊 GitHub Stats:
+
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarshaarawy111&show_icons=true&theme=radical)

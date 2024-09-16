@@ -20,3 +20,9 @@ I am a web developer and AI enthusiast with 4 years of experience. I specialize 
 ![AVR](https://img.shields.io/badge/-AVR-EE2C2C?style=for-the-badge&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
+
+### 💼 Work Experience:
+- **Junior AI Engineer**
+- **Senior Web Developer at Neutlex media agency**
+- **Web Developer at Bfound Association**
+- **Web Developer at Integrity Corporation**

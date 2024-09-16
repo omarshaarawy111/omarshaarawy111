@@ -33,6 +33,11 @@ I am a web developer and AI enthusiast with 4 years of experience. I specialize 
 ![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarshaarawy111&show_icons=true&theme=radical)
 
 
+### 🗂️ Most Used Languages:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarshaarawy111&layout=compact&theme=radical)
+
+
 ### 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-shaarawy-09b877205/)

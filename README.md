@@ -37,6 +37,10 @@ I am a web developer and AI enthusiast with 4 years of experience. I specialize 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarshaarawy111&layout=compact&theme=radical)
 
+### 🔍 Skills in Focus:
+
+- Currently learning [AI](#) .
+
 
 ### 📫 How to reach me:
 

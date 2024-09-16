@@ -31,3 +31,11 @@ I am a web developer and AI enthusiast with 4 years of experience. I specialize 
 ### 📊 GitHub Stats:
 
 ![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarshaarawy111&show_icons=true&theme=radical)
+
+
+### 📫 How to reach me:
+
+- [LinkedIn]([https://www.linkedin.com/in/omarshaarawy111](https://www.linkedin.com/in/omar-shaarawy-09b877205/))
+- [Behance]([https://twitter.com/yourhandle](https://www.behance.net/omarshaarawy11))
+- [facebook]([https://www.facebook.com/profile.php?id=100089393515157)
+- Email: omarelshaarawy909@gmail.com

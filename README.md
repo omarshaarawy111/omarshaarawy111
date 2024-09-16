@@ -5,6 +5,7 @@ Hi there! 👋 I'm Omar Shaarawy, a passionate web developer and AI beginner wit
 Here's a breakdown of the languages and tools I frequently use:
 
 Languages:
+![Static Badge](https://img.shields.io/badge/Python-%233572A5)
 <span style="color:#3572A5">Python</span> 🐍 (AI/ML, Data Analysis, Streamlit)
 <span style="color:#563D7C">PHP</span> (WordPress development)
 <span style="color:#F0DB4F">JavaScript</span> (Web functionality, AJAX)

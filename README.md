@@ -17,6 +17,9 @@ I am a web developer and AI enthusiast with 4 years of experience. I specialize 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Liquid](https://img.shields.io/badge/-Liquid-FA7441?style=for-the-badge&logo=shopify&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/-Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
+![Drupal](https://img.shields.io/badge/-Drupal-0077C8?style=for-the-badge&logo=drupal&logoColor=white)
 ![AVR](https://img.shields.io/badge/-AVR-EE2C2C?style=for-the-badge&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 

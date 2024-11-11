@@ -26,9 +26,10 @@ I am a web developer and AI enthusiast with 4 years of experience. I specialize 
 
 ### 💼 Work Experience:
 - **Junior AI Engineer**
-- **Senior Web Developer at Neutlex media agency**
-- **Web Developer at Bfound Association**
-- **Web Developer at Integrity Corporation**
+- **Software Engineer at Nestlé**
+- **Senior WordPress Developer at Neutlex media agency**
+- **WordPress Developer Developer at Bfound Association**
+- **WordPress Developer Developer at Integrity Corporation**
 
 
 ### 📊 GitHub Stats:

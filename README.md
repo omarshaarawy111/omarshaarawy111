@@ -5,7 +5,7 @@ I am a web developer and AI enthusiast with 4 years of experience. I specialize 
 ![Profile Views](https://komarev.com/ghpvc/?username=omarshaarawy111&color=blue)
 
 
-### 🛠️ Languages and Tools:
+### 🛠️ Tech Stack and Expertise:
 
 ![Python](https://img.shields.io/badge/-Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,6 +23,11 @@ I am a web developer and AI enthusiast with 4 years of experience. I specialize 
 ![AVR](https://img.shields.io/badge/-AVR-EE2C2C?style=for-the-badge&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
+#### Specialized Skills:
+
+![Classical Machine Learning](https://img.shields.io/badge/-Classical%20Machine%20Learning-0A192F?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Natural Language Processing (NLP)](https://img.shields.io/badge/-NLP-48A9A6?style=for-the-badge&logo=spaCy&logoColor=white)
 
 ### 💼 Work Experience:
 - **Junior AI Engineer**

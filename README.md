@@ -31,7 +31,7 @@ I am a web developer and AI enthusiast with 5 years of experience. I specialize 
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Automation](https://img.shields.io/badge/-Automation-4CAF50?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![8n8](https://img.shields.io/badge/-8n8-FF0000?style=for-the-badge&logo=8x8&logoColor=white)
+![8x8](https://img.shields.io/badge/-8x8-FF0000?style=for-the-badge&logo=8x8&logoColor=white)
 
 ### 💼 Work Experience:
 - **Junior AI Engineer**

@@ -43,11 +43,11 @@ I am a web developer and AI enthusiast with 5 years of experience. I specialize 
 
 ### 📊 GitHub Stats:
 
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarshaarawy111&show_icons=true&theme=radical&count_private=true)
+![Omar's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=omarshaarawy111&show_icons=true&theme=radical)
 
 ### 🗂️ Most Used Languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarshaarawy111&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=omarshaarawy111&layout=compact&theme=radical)
 
 ### 🔍 Skills in Focus:
 

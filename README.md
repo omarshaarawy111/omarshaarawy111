@@ -24,13 +24,19 @@ I am a web developer and AI enthusiast with 5 years of experience. I specialize 
 ![AVR](https://img.shields.io/badge/-AVR-EE2C2C?style=for-the-badge&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### 🚀 Specialized Skills:
+
+### 🤖 LLMs & AI Engineering
 
 ![Classical Machine Learning](https://img.shields.io/badge/-Classical%20Machine%20Learning-0A192F?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Natural Language Processing (NLP)](https://img.shields.io/badge/-NLP-48A9A6?style=for-the-badge&logo=spaCy&logoColor=white)
-![Automation](https://img.shields.io/badge/-Automation-4CAF50?style=for-the-badge&logo=githubactions&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![8x8](https://img.shields.io/badge/-8x8-FF0000?style=for-the-badge&logo=8x8&logoColor=white)
+![Large Language Models](https://img.shields.io/badge/-LLMs-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/-Transformers-0055FF?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-0E76A8?style=for-the-badge&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-7F00FF?style=for-the-badge&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/-Vector%20DBs-333333?style=for-the-badge&logo=postgresql&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-FF6F00?style=for-the-badge&logoColor=white)
+
 
 ### 🧱 Software Production & Deployment
 
@@ -38,11 +44,24 @@ I am a web developer and AI enthusiast with 5 years of experience. I specialize 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
+
 #### ☁️ Cloud & Infrastructure
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+
+### 🧠 Workflow Automation & Integrations
+
+![Automation](https://img.shields.io/badge/-Automation-4CAF50?style=for-the-badge&logo=githubactions&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-FF6F61?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/-Make.com-5C2D91?style=for-the-badge&logo=make&logoColor=white)
+![Webhooks](https://img.shields.io/badge/-Webhooks-111111?style=for-the-badge&logoColor=white)
+![API Integrations](https://img.shields.io/badge/-API%20Integrations-0366D6?style=for-the-badge&logoColor=white)
+
 
 ### 💼 Work Experience:
 - **Junior AI Engineer**
@@ -56,13 +75,16 @@ I am a web developer and AI enthusiast with 5 years of experience. I specialize 
 
 ![Omar's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=omarshaarawy111&show_icons=true&theme=radical)
 
+
 ### 🗂️ Most Used Languages:
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=omarshaarawy111&layout=compact&theme=radical)
 
+
 ### 🔍 Skills in Focus:
 
 - Currently learning [AI](#) .
+
 
 
 ### 📫 How to reach me:

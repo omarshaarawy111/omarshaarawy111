@@ -38,6 +38,17 @@ I am a web developer and AI enthusiast with 5 years of experience. I specialize 
 ![RAG](https://img.shields.io/badge/-RAG-FF6F00?style=for-the-badge&logoColor=white)
 
 
+### 🧠 Workflow Automation & Integrations
+
+![Automation](https://img.shields.io/badge/-Automation-4CAF50?style=for-the-badge&logo=githubactions&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-FF6F61?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/-Make.com-5C2D91?style=for-the-badge&logo=make&logoColor=white)
+![Webhooks](https://img.shields.io/badge/-Webhooks-111111?style=for-the-badge&logoColor=white)
+![API Integrations](https://img.shields.io/badge/-API%20Integrations-0366D6?style=for-the-badge&logoColor=white)
+
+
 ### 🧱 Software Production & Deployment
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -50,17 +61,6 @@ I am a web developer and AI enthusiast with 5 years of experience. I specialize 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-
-### 🧠 Workflow Automation & Integrations
-
-![Automation](https://img.shields.io/badge/-Automation-4CAF50?style=for-the-badge&logo=githubactions&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![n8n](https://img.shields.io/badge/-n8n-FF6F61?style=for-the-badge&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![Make](https://img.shields.io/badge/-Make.com-5C2D91?style=for-the-badge&logo=make&logoColor=white)
-![Webhooks](https://img.shields.io/badge/-Webhooks-111111?style=for-the-badge&logoColor=white)
-![API Integrations](https://img.shields.io/badge/-API%20Integrations-0366D6?style=for-the-badge&logoColor=white)
 
 
 ### 💼 Work Experience:
